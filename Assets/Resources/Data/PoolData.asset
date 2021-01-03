@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 656b66fa02b23264dbaecd60f802446b, type: 3}
+  m_Name: PoolData
+  m_EditorClassIdentifier: 
+  Pools:
+  - Tag: Bullet
+    Prefab: {fileID: 723251951314352410, guid: e2a64f8401abe2d44b988dff10a9ea57, type: 3}
+    Size: 20
+  - Tag: Character
+    Prefab: {fileID: 9196980488338719276, guid: 64746f48cbe2e9746990943a8977eeec, type: 3}
+    Size: 0
