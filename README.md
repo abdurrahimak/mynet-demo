@@ -1,5 +1,6 @@
 # mynet-demo
-mynet demo project
+mynet demo project<br>
+Webgl build : https://abdurrahimak.itch.io/mynet-demo
 <h2>Gerekenler</h2>
 <ul>
     <li>Ana menüdeki “Başla” butonuna bastığımızda oyun başlar.</li>
